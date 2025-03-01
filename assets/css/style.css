@@ -39,6 +39,7 @@ h2 {
   font-size: clamp(2.8rem, 2rem + 3vw, 6rem);
   text-align: center;
   margin: 0;
+  transition: all 1s;
 }
 
 h1 {
@@ -63,6 +64,7 @@ p.text-center {
   max-inline-size: 52rem;
   margin-inline: auto;
   text-align: center;
+  transition: all 1s;
 }
 
 nav {
@@ -86,6 +88,7 @@ img {
   font-family: "Chillax";
   font-weight: 500;
   font-size: clamp(2rem, 1rem + 3vw, 2.4rem);
+  user-select: none;
 }
 
 .link {
@@ -107,7 +110,8 @@ img {
   padding: 1.1rem 2.2rem;
   background-color: #000;
   min-width: fit-content;
-  transition: transform 1s;
+  transition: all 1s;
+  user-select: none;
 }
 
 .button:hover {
@@ -164,7 +168,7 @@ img {
     #5c24ff 76%,
     #d94fd5 100%
   );
-  transition: transform 1s;
+  transition: all 1s;
 }
 
 .bg--gradient:hover {
