@@ -22,7 +22,7 @@ This is the finished design of the Serendale app.
 
 ### Links
 
-- Live Site URL: [login app](https://flashdaniel.github.io/simple-login-form-project/)
+- Live Site URL: [Serendale app](https://flashdaniel.github.io/Serendaleai-landing-page/)
 
 ## My process
 
